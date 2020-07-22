@@ -1,0 +1,27 @@
+body {
+    font-family: 'OpenSans';
+}
+
+.container {
+    max-width: 1440px;
+    padding: 0;
+}
+
+.row, .col{
+    margin: 0;
+    padding: 0;
+}
+
+.img-header {
+    background-image: url("/img/shapka.png");
+    width: 1440px;
+    height: 124px;
+}
+
+.header-logo {
+    margin: 20px 0 20px 91px;
+}
+
+.header-img__ghore {
+    margin-right: 88px;
+}
